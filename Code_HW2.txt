@@ -1,0 +1,2 @@
+My server code is /server.js
+My views code containing index.html is in /views 
